@@ -13,7 +13,7 @@ function criarCard (produto) {
 
     let star = document.createElement('span')
     star.className = 'star'
-    star.innerHTML = '&#10025'
+    star.innerHTML = '&starf;'
 
     let classificationNumber = document.createElement('span')
     classificationNumber.className = 'classification-number'
@@ -21,10 +21,10 @@ function criarCard (produto) {
 
     let heart = document.createElement('span')
     heart.className = 'heart'
-    heart.innerHTML = '&#9825'
+    heart.innerHTML = '&hearts;'
 
     let img = document.createElement('img')
-    img.src = `./img/${produto.imagem}`
+    img.src = `./src/img/${produto.imagem}`
     img.alt = `Foto de ${produto.nome}`
 
     let name = document.createElement('span')

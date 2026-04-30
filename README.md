@@ -1,5 +1,6 @@
 # Lista-de-produtos-template
-<img width="1129" height="897" alt="image" src="https://github.com/user-attachments/assets/1a246b8a-a6d8-4d9f-96aa-ac44136d60dc" />
+<img width="1075" height="886" alt="image" src="https://github.com/user-attachments/assets/2d25c2b2-ee5e-4335-8cf0-4246490dc675" />
+
 
 ## Descrição
 Projeto front-end simples para exibição de uma lista de produtos em formato de cards. Os dados são carregados dinamicamente via JavaScript a partir de um array de objetos.

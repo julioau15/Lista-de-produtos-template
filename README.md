@@ -1,5 +1,6 @@
 # Lista-de-produtos-template
-<img width="1075" height="886" alt="image" src="https://github.com/user-attachments/assets/2d25c2b2-ee5e-4335-8cf0-4246490dc675" />
+<img width="1231" height="769" alt="image" src="https://github.com/user-attachments/assets/abc2c7da-9f22-41f0-b449-21ea06858e07" />
+
 
 
 ## Descrição
